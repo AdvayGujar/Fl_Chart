@@ -1,16 +1,15 @@
-# chart
+# Flutter Line Chart Example
 
-A new Flutter project to demonstrate fl_chart
+This Flutter application demonstrates how to use the `fl_chart` package to create an interactive and visually appealing line chart. It provides a simple and clean UI showcasing a chart with sample data points, highlighting the capability of `fl_chart` in creating customizable and scalable charting solutions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Line chart visualization
+- Customizable color gradients
+- Responsive design suitable for various device sizes
+- Example of using `fl_chart` in a real-world Flutter app context
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have Flutter installed on your system. If you do not have Flutter installed, please follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
